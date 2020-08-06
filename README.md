@@ -1,4 +1,3 @@
-
 <div align="center">
    <img width="160" src="assets/mirai.png" alt="logo"></br>
 
